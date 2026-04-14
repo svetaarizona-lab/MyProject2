@@ -1,0 +1,2 @@
+s@gmail.com;Doll:1;Books:3
+m@gmail.com;Transport:5;Books:10

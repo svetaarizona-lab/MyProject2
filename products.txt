@@ -1,0 +1,3 @@
+Doll, soft toy,800,6
+Books,fairy tales,150,20
+Transport, cars, 200,10
